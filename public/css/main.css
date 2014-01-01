@@ -1,0 +1,23 @@
+video {
+  display: inline-block;
+  border: solid 1px #666666;
+  width: 640px;
+  height: 480px;
+}
+
+.videos {
+  text-align: center;
+  position: relative;
+}
+
+.connects {
+  margin-bottom: 10px;
+}
+
+#localVideo {
+  position: absolute;
+  width: 192px;
+  height: 144px;
+  top: 336px;
+  left: 597px;
+}
